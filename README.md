@@ -34,12 +34,12 @@
  <img src="/photos/and11-blue.png" width=200>
  
 and11blue  
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/blob/main/and11blue.zip)  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/and11blue.zip)  
 
  <img src="/photos/and11-red.png" width=200>
  
 and11red  
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/blob/main/and11red.zip)  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/and11red.zip)  
 
  <img src="/photos/yug7.png" width=200>
  
