@@ -50,15 +50,15 @@ and11green
  <img src="/photos/lineage-green.png" width=200>
  
 lineage-green  
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/blob/main/lineage-green.zip)      
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/lineage-green.zip)      
 
  <img src="/photos/ice.png" width=200>
  
 ice   
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/blob/main/ice.zip)  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/iceland.zip)  
 
  <img src="/photos/motored.png" width=200>
  
 motored   
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/blob/main/motored.zip)    
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/moto-red.zip)    
   
