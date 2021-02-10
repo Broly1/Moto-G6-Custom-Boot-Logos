@@ -44,7 +44,7 @@ and11red
  <img src="/photos/yug7.png" width=200>
  
 and11green  
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/blob/main/and11green.zip)  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/and11green.zip)  
 
 
  <img src="/photos/lineage-green.png" width=200>
