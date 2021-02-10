@@ -29,7 +29,7 @@
  <img src="/photos/and11black-red-pe.png" width=200>
  and11black-red-pe  
  
-[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/and11black-red.zip)
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/and11black-red-pe.png.zip)
 
  <img src="/photos/and11-blue.png" width=200>
  
