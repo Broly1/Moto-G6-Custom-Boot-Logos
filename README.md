@@ -1,5 +1,11 @@
 # Moto-G6-Custom-Boot-Logos
- <img src="/photos/and11black-red.png" width=200>
+
+ <img src="/photos/anroid-robot.png" width=200>
+ 
+ android-robot  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/android-robot.zip) 
+
+<img src="/photos/and11black-red.png" width=200>
  
  and11black-red  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/and11black-red.zip)  
