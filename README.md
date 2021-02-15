@@ -1,5 +1,8 @@
 # Moto-G6-Custom-Boot-Logos
 
+Download it and flash it with TWRP.  
+  
+    
  <img src="/photos/anroid-robot.png" width=200>
  
  android-robot  
