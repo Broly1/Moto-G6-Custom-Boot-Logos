@@ -1,10 +1,15 @@
 # Moto-G6-Custom-Boot-Logos
 
 Download it and flash it with TWRP.  
-  
+ 
+   <img src="/photos/glowingapple.png" width=200>
+ 
+ glowing-apple  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/glowingapple.zip)
+ 
   <img src="/photos/glowingbot.png" width=200>
  
- android-robot  
+ glowing-bot  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/glowingbot.zip)
  
  <img src="/photos/anroid-robot.png" width=200>
