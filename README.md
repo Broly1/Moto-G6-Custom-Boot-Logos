@@ -2,7 +2,11 @@
 
 Download it and flash it with TWRP.  
   
-    
+  <img src="/photos/glowingbot.png" width=200>
+ 
+ android-robot  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/glowingbot.zip)
+ 
  <img src="/photos/anroid-robot.png" width=200>
  
  android-robot  
