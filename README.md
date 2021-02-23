@@ -2,7 +2,12 @@
 
 Download it and flash it with TWRP.  
  
-   <img src="/photos/glowingapple.png" width=200>
+   <img src="/photos/red-droid.png" width=200>
+ 
+ rooted-droid  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/rooted-droid.zip)
+
+<img src="/photos/glowingapple.png" width=200>
  
  glowing-apple  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/glowingapple.zip)
