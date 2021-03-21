@@ -1,6 +1,12 @@
 # Moto-G6-Custom-Boot-Logos
 
-Download it and flash it with TWRP. 
+Download it and flash it with TWRP.
+
+   <img src="/photos/LBW.png" width=200>
+ 
+ LBW 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/LBW.zip)
+
 
    <img src="/photos/dotos1.png" width=200>
  
