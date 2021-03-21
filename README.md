@@ -2,6 +2,11 @@
 
 Download it and flash it with TWRP.
 
+   <img src="/photos/aex.png" width=200>
+ 
+ AEX 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/AEX.zip)
+
    <img src="/photos/LBW.png" width=200>
  
  LBW 
