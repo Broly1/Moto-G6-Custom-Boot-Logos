@@ -4,7 +4,7 @@ Download it and flash it with TWRP.
 
    <img src="/photos/nusantara.png" width=200>
  
- AEX 
+ NusantaraOS 
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/nusantaralogo.zip)
 
    <img src="/photos/aex.png" width=200>
