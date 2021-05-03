@@ -1,6 +1,13 @@
 # Moto-G6-Custom-Boot-Logos
 
-Download it and flash it with TWRP.  
+Download it and flash it with TWRP. 
+
+   <img src="/photos/havoc.png" width=200>
+ 
+ HavocOS 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/havoc.zip)
+
+   <img src="/photos/aex.png" width=200>
 
    <img src="/photos/nusantara.png" width=200>
  
