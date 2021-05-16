@@ -2,6 +2,10 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/nezuco.png" width=200>
+   
+Nezuko
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/nezuko.zip)
 
    <img src="/photos/palladium.png" width=200>
    
