@@ -2,6 +2,16 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/aex-blue.png" width=200>
+   
+aex-blue
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/aex-blue.zip)
+
+   <img src="/photos/aex-green.png" width=200>
+   
+aex-green
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/aex-green.zip)
+
    <img src="/photos/nezuco.png" width=200>
    
 Nezuko
