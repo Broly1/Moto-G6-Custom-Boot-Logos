@@ -2,6 +2,18 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/material_blue_by_rolak.jpg" width=200>
+
+material_blue
+made by Bruno Rolak  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/material_blue_by_rolak.zip)
+
+   <img src="/photos/material_blue_top_by_rolak.jpg" width=200>
+   
+material_blue_top
+made by Bruno Rolak  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/material_blue_top_by_rolak.zip)
+
    <img src="/photos/aex-blue.png" width=200>
    
 aex-blue
