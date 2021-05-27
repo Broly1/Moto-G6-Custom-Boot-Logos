@@ -2,6 +2,18 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/cyber.jpg" width=200>
+
+cyber-center
+made by Bruno Rolak  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/cyber_center_by_rolak.zip)
+
+   <img src="/photos/cyber-top.jpg" width=200>
+
+cyber-top
+made by Bruno Rolak  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/cyber_top_by_rolak.zip)
+
    <img src="/photos/material_blue_by_rolak.jpg" width=200>
 
 material_blue
