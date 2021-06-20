@@ -2,6 +2,11 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/pixel.png" width=200>
+   
+Pixel
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/pixel.zip)
+
    <img src="/photos/cyber.jpg" width=200>
 
 cyber-center
