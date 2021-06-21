@@ -2,6 +2,48 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/beach.png" width=200>
+   
+Beach
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/beach.zip)
+
+   <img src="/photos/boat.png" width=200>
+   
+Boat
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/boat.zip)
+
+   <img src="/photos/jupter.png" width=200>
+   
+Jupter
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/jupter.zip)
+
+   <img src="/photos/montains.png" width=200>
+   
+Montains
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/montains.zip)
+
+   <img src="/photos/moon.png" width=200>
+   
+Moon
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/moon.zip)
+
+   <img src="/photos/sun.png" width=200>
+   
+Sun
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/koi.zip)
+
+   <img src="/photos/koi.png" width=200>
+   
+Koi
+made by Bruno Rolak 
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/pixel.zip)
+
    <img src="/photos/pixel.png" width=200>
    
 Pixel
