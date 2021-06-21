@@ -4,44 +4,37 @@ Download it and flash it with TWRP.
 
    <img src="/photos/beach.png" width=200>
    
-Beach
-made by Bruno Rolak 
+Beach made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/beach.zip)
 
    <img src="/photos/boat.png" width=200>
    
-Boat  
-made by Bruno Rolak  
+Boat made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/boat.zip)
 
    <img src="/photos/jupiter.png" width=200>
    
-Jupiter  
-made by Bruno Rolak   
+Jupiter made by Bruno Rolak   
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/jupter.zip)
 
    <img src="/photos/montains.png" width=200>
    
-Montains  
-made by Bruno Rolak  
+Montains made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/montains.zip)
 
    <img src="/photos/moon.png" width=200>
    
-Moon  
-made by Bruno Rolak  
+Moon made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/moon.zip)
 
    <img src="/photos/sun.png" width=200>
    
-Sun  
-made by Bruno Rolak  
+Sun made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/koi.zip)
 
    <img src="/photos/koi.png" width=200>
    
-Koi  
-made by Bruno Rolak  
+Koi made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/pixel.zip)
 
    <img src="/photos/pixel.png" width=200>
@@ -51,26 +44,22 @@ Pixel
 
    <img src="/photos/cyber.jpg" width=200>
 
-cyber-center  
-made by Bruno Rolak    
+Cyber (center) made by Bruno Rolak    
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/cyber_center_by_rolak.zip)
 
    <img src="/photos/cyber-top.jpg" width=200>
 
-cyber-top  
-made by Bruno Rolak  
+Cyber (top) made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/cyber_top_by_rolak.zip)
 
    <img src="/photos/material_blue_by_rolak.jpg" width=200>
 
-material_blue
-made by Bruno Rolak  
+Material blue made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/material_blue_by_rolak.zip)
 
    <img src="/photos/material_blue_top_by_rolak.jpg" width=200>
    
-material_blue_top
-made by Bruno Rolak  
+Material Blue (top) made by Bruno Rolak  
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/material_blue_top_by_rolak.zip)
 
    <img src="/photos/aex-blue.png" width=200>
