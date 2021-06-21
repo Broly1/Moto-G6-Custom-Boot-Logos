@@ -14,9 +14,9 @@ Boat
 made by Bruno Rolak 
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/boat.zip)
 
-   <img src="/photos/jupter.png" width=200>
+   <img src="/photos/jupiter.png" width=200>
    
-Jupter
+Jupiter
 made by Bruno Rolak 
 [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/jupter.zip)
 
