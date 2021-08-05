@@ -5,7 +5,7 @@ Download it and flash it with TWRP.
 | <img src="/photos/superior.png" width=200>  |  <img src="/photos/crdroid.png" width=200>  |  <img src="/photos/aospk.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Superior made by Bruno Rolak  |  CrDroid made by Bruno Rolak |  AOSPK made by Bruno Rolak |
-|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/crdroid.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/superior.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aospk.zip) |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/superior.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/crdroid.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aospk.zip) |
  
 
 | <img src="/photos/beach.png" width=200>  |  <img src="/photos/boat.png" width=200>  |  <img src="/photos/jupiter.png" width=200>  |
