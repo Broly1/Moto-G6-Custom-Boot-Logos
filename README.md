@@ -83,5 +83,5 @@ Download it and flash it with TWRP.
 | <img src="/photos/ice.png" width=200>  |  <img src="/photos/motored.png" width=200>  |  NOTHING TO DO HERE  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  ice  |  motored |  NOTHING TO DO HERE |
-|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/iceland.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/moto-red.zip)  |  [Download](https://xvideos.com)  |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/iceland.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/moto-red.zip)  |  [Download](https://images-na.ssl-images-amazon.com/images/I/71b9p7Y3UhL.png)  |
  
