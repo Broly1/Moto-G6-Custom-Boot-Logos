@@ -2,6 +2,16 @@
 
 Download it and flash it with TWRP. 
 
+   <img src="/photos/superior.png" width=200>
+   
+AOSPK made by Bruno Rolak  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/superior.zip)
+
+   <img src="/photos/crdroid.png" width=200>
+   
+AOSPK made by Bruno Rolak  
+[Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/crdroid.zip)
+
    <img src="/photos/aospk.png" width=200>
    
 AOSPK made by Bruno Rolak  
