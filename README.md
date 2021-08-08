@@ -85,12 +85,12 @@ Download it and flash it with TWRP.
 |  ice  |  motored |  Moto Stock A8 |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/iceland.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/moto-red.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostock8.zip)|
  
-| <img src="/photos/motostock9.png" width=200>  |  <img src="/photos/motostock10.png" width=200>  |  <img src="/photos/motostockedge" width=200>  |
+| <img src="/photos/motostock9.png" width=200>  |  <img src="/photos/motostock10.png" width=200>  |  <img src="/photos/motostockedge.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Moto Stock A9  |  Moto Stock A10 |  Moto Stock Edge |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostock9.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostock10.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostockedge.zip)  |
   
-| <img src="/photos/motog6a8serial" width=200>  |  <img src="/photos/motobmoto.png" width=200>  |  <img src="/photos/aone17.png" width=200>  |
+| <img src="/photos/motog6a8serial.png" width=200>  |  <img src="/photos/motobmoto.png" width=200>  |  <img src="/photos/aone17.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Moto Stock Serial on N/A  |  Moto by Moto |  Android One 2017 |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motog6a8serial.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motobmoto.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone17.zip)  |
@@ -100,7 +100,7 @@ Download it and flash it with TWRP.
 |  Android One Black  |  Android One 2019 |  Android One 2020 |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone17blmod.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone19.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone20.zip)  |
   
-| <img src="/photos/motog6inbl.png" width=200>  |  <img src="/photos/motoblramires" width=200>  |  <img src="/photos/g6gcolors.png" width=200>  |
+| <img src="/photos/motog6inbl.png" width=200>  |  <img src="/photos/motoblramires.png" width=200>  |  <img src="/photos/g6gcolors.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Moto Black and White  |  Moto Blue and White |  Moto in Google Colors |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motog6inbl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motoblramires.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/g6gcolors.zip)  |
