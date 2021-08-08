@@ -20,13 +20,13 @@ Download it and flash it with TWRP.
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/montains.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/moon.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/sun.zip) |
   
 
-| <img src="/photos/koi.png" width=200>  |  <img src="/photos/pixel.png" width=200>  |  <img src="/photos/cyber.jpg" width=200>  |
+| <img src="/photos/koi.png" width=200>  |  <img src="/photos/pixel.png" width=200>  |  <img src="/photos/cyber.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Koi made by Bruno Rolak  |  Pixel  |  Cyber (center) made by Bruno Rolak  |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/koi.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/pixel.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/cyber_center_by_rolak.zip)  |  
 
 
-| <img src="/photos/cyber-top.jpg" width=200>  |  <img src="/photos/material_blue_by_rolak.jpg" width=200>  |  <img src="/photos/material_blue_top_by_rolak.jpg" width=200>  |
+| <img src="/photos/cyber-top.png" width=200>  |  <img src="/photos/material_blue_by_rolak.png" width=200>  |  <img src="/photos/material_blue_top_by_rolak.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Cyber (top) made by Bruno Rolak  |  Material blue made by Bruno Rolak  |  Material Blue (top) made by Bruno Rolak |
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/cyber_top_by_rolak.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/material_blue_by_rolak.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/material_blue_top_by_rolak.zip)  |
@@ -80,8 +80,68 @@ Download it and flash it with TWRP.
 |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/and11red.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/and11green.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/lineage-green.zip)  |    
 	
 
-| <img src="/photos/ice.png" width=200>  |  <img src="/photos/motored.png" width=200>  |  NOTHING TO DO HERE  |
+| <img src="/photos/ice.png" width=200>  |  <img src="/photos/motored.png" width=200>  |  <img src="/photos/motostock8.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
-|  ice  |  motored |  NOTHING TO DO HERE |
-|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/iceland.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/moto-red.zip)  |  [Download](https://images-na.ssl-images-amazon.com/images/I/71b9p7Y3UhL.png)  |
+|  ice  |  motored |  Moto Stock A8 |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/iceland.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/moto-red.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostock8.zip)|
+ 
+| <img src="/photos/motostock9.png" width=200>  |  <img src="/photos/motostock10.png" width=200>  |  <img src="/photos/motostockedge" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Moto Stock A9  |  Moto Stock A10 |  Moto Stock Edge |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostock9.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostock10.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motostockedge.zip)  |
+  
+| <img src="/photos/motog6a8serial" width=200>  |  <img src="/photos/motobmoto.png" width=200>  |  <img src="/photos/aone17.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Moto Stock Serial on N/A  |  Moto by Moto |  Android One 2017 |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motog6a8serial.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motobmoto.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone17.zip)  |
+  
+| <img src="/photos/aone17blmod.png" width=200>  |  <img src="/photos/aone19.png" width=200>  |  <img src="/photos/aone20.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Android One Black  |  Android One 2019 |  Android One 2020 |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone17blmod.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone19.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aone20.zip)  |
+  
+| <img src="/photos/motog6inbl.png" width=200>  |  <img src="/photos/motoblramires" width=200>  |  <img src="/photos/g6gcolors.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Moto Black and White  |  Moto Blue and White |  Moto in Google Colors |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motog6inbl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motoblramires.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/g6gcolors.zip)  |
+  
+| <img src="/photos/googlew.png" width=200>  |  <img src="/photos/googlebl.png" width=200>  |  <img src="/photos/googlecolorswaves.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Google White  |  Google Black |  Google Colors Waves |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/googlew.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/googlebl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/googlecolorswaves.zip)  |
+  
+| <img src="/photos/motologosl.png" width=200>  |  <img src="/photos/motologob.png" width=200>  |  <img src="/photos/motologow.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Moto Logos Blue  |  Moto Logos Black  |  Moto Logos White  |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motologosl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motologob.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motologow.zip)  |
+  
+| <img src="/photos/motoglos.png" width=200>  |  <img src="/photos/motogpix.png" width=200>  |  <img src="/photos/motogrev.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Moto powered by Lineage  |  Moto powered by Pixel |  Moto powered by Revenge |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motoglos.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motogpix.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motogrev.zip)  |
+  
+| <img src="/photos/motologocl.png" width=200>  |  <img src="/photos/motologobw.png" width=200>  |  <img src="/photos/aexpb.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Moto Logo in Black  |  Moto Logo Big M |  Aosp EXtended powered by Betox |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motologocl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motologobw.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/aexpb.zip)  |
+    
+| <img src="/photos/arrowpb.png" width=200>  |  <img src="/photos/arrowpbb.png" width=200>  |  <img src="/photos/arrowpbw.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Arrow v1  |  Arrow v2 |  Arrow v2 Black |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/arrowpb.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/arrowpbb.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/arrowpbw.zip)  |
+   
+| <img src="/photos/pixelform.png" width=200>  |  <img src="/photos/pixelformbl.png" width=200>  |  <img src="/photos/pixelpw.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Pixel Forms  |  Pixel Forms Black |  Pixel Forms Colors |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/pixelform.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/pixelformbl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/pixelpw.zip)  |
+   
+| <img src="/photos/lospwb.png" width=200>  |  <img src="/photos/revenge.png" width=200>  |  <img src="/photos/rrmix.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Lineage Old powered by beto  |  Revenge OS |  RR |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/lospwb.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/revenge.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/rrmix.zip)  |
+   
+| <img src="/photos/asscred.png" width=200>  |  <img src="/photos/ff7seph.png" width=200>  |  <img src="/photos/ff7cloud.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  Assassin's Creed Valhalla  |  Final Fantasy VII Remastered Sephiroth |  Final Fantasy VII Remastered Cloud |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/motologocl.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/ff7seph.zip)  |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/ff7cloud.zip)  |
  
