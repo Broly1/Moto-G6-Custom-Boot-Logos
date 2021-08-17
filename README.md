@@ -2,6 +2,12 @@
 
 Download it and flash it with TWRP.
 
+| <img src="/photos/logos.png" width=200>  |  <img src="/photos/logos2.png" width=200>  |  <img src="/photos/lcd.png" width=200>  |
+| ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+|  All ROMs made by Bruno Rolak  |  All ROMs v2 by Bruno Rolak |  LCD Broken made by Bruno Rolak |
+|  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/logos.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/logos2.zip) |  [Download](https://github.com/Broly1/Moto-G6-Custom-Boot-Logos/raw/main/zip/lcd.zip) |
+ 
+
 | <img src="/photos/superior.png" width=200>  |  <img src="/photos/crdroid.png" width=200>  |  <img src="/photos/aospk.png" width=200>  |
 | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 |  Superior made by Bruno Rolak  |  CrDroid made by Bruno Rolak |  AOSPK made by Bruno Rolak |
